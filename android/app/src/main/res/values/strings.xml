@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabibi</string>
+    <string name="facebook_app_id">658336972998006</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">923eb307f62fbbda3b8345d615c194de</string>
+
+
+</resources>

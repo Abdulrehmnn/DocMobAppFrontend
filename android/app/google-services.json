@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964902769562",
+    "project_id": "tabibi-438c6",
+    "storage_bucket": "tabibi-438c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964902769562:android:37e0d035dd435a83102023",
+        "android_client_info": {
+          "package_name": "com.tabibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964902769562-ormv9su0ptctm8vg0j7htjc8jfon5peg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabibi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "964902769562-j3iiq87ho1cagkf9avs409pddr2o7r52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMrJGjjeKN41YyTVgCvge2yiqubzN350"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964902769562-j3iiq87ho1cagkf9avs409pddr2o7r52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
